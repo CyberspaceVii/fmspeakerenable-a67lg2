@@ -1,0 +1,7 @@
+id=fmspeakerenable_a67lg2
+name=FM Speaker Enable
+version=v0.3
+versionCode=3
+author=CyberspaceVII
+banner=https://cyberspace7.org/assets/ksun/imgs/fmspeakerenable-a67lg2.png
+description=Lets the FM radio play through the speaker without plugging in headphones, by enabling the built-in short-antenna mode. Tap the Action button to toggle it on or off on the fly. Disable this module to restore the stock behavior.
